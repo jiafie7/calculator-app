@@ -1,6 +1,6 @@
 # calculator-app
 
-<img src = "https://github.com/jiafie7/calculator-app/presentation.gif" width = "800px" />
+<img src = "./presentation.gif" width = "800px" />
 
 This project used React and Bootstrap.
 
